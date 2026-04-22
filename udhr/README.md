@@ -24,6 +24,8 @@ characters).
 
 
 pdf/ 			original pdf files downloaded from the UN website.
+
 txt/ 			text extracted from pdf files with pdftotext (UTF-8).
+
 languages.txt 	        language codes and names
 
